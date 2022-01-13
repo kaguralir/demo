@@ -4,7 +4,7 @@
    { "id": 1, "title": "Post 1", "email":"example", "password": "exemple" },
    { "id": 1, "title": "Post 1", "email":"example", "password": "exemple" }
   ],
-  "jobOffers": "data": [
+  "jobOffers": [
     {
       "jobOffer_id": 1,
       "recruiter_id": 1,
