@@ -1,8 +1,8 @@
 {
   "user": [
-    { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" },
-   { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" },
-   { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" }
+    { "id": 1, "title": "Post 1", "email":"example", "password": "exemple" },
+   { "id": 1, "title": "Post 1", "email":"example", "password": "exemple" },
+   { "id": 1, "title": "Post 1", "email":"example", "password": "exemple" }
   ],
   "jobOffers": "data": [
     {
